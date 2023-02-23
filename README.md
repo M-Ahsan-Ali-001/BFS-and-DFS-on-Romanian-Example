@@ -1,4 +1,8 @@
 # BFS-and-DFS-on-Romanian-Example
+#library Used
+1.) networkx
+2.) matplotlib
+3.) queue
 
 # Explanation
 1.) In this task I have created two option in which user can manually enter cities and thier neighbours with their weight and user have also option to automatically generated this data.
@@ -27,7 +31,7 @@ Path Route: ['Arad', 'Timisoara', 'Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Pit
 Cost : [101, 138, 120, 75, 70, 111, 118, 0]  Total: 733
 BFS has out-perfomed the DFS
 ~~~
-From above senario we can say that, BFS has out-perfomed the DFS.
+From above senario we can say that, **BFS has out-perfomed the DFS.**
 
 # Visual Representation
 
