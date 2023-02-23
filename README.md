@@ -29,12 +29,12 @@ BFS has out-perfomed the DFS
 ~~~
 From above senario we can say that, BFS has out-perfomed the DFS.
 
-# Visual 
-<div style="display:Flex">
-<div>![image](https://user-images.githubusercontent.com/91987110/220993585-66168394-00e0-440a-9872-db2e307d4d8e.png)
-</div>
-<div>![image](https://user-images.githubusercontent.com/91987110/220993714-1398739c-7c61-4613-9ef3-e0d2fb3ef917.png)
-</div>
-</div>
+# Visual Representation
+
+![image](https://user-images.githubusercontent.com/91987110/220993585-66168394-00e0-440a-9872-db2e307d4d8e.png)
+
+![image](https://user-images.githubusercontent.com/91987110/220993714-1398739c-7c61-4613-9ef3-e0d2fb3ef917.png)
+
+
 
 
